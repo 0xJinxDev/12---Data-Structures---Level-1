@@ -1,0 +1,10 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Time &amp; Space complexity - Big O(1)/Time &amp; Space complexity - Big O(1).vcxproj" />
+  <Project Path="Time &amp; Space complexity - Big O(log n)/Time &amp; Space complexity - Big O(log n).vcxproj" />
+  <Project Path="Time &amp; Space complexity - Big O(n)/Time &amp; Space complexity - Big O(n).vcxproj" />
+  <Project Path="Time &amp; Space complexity - Big O(n^2)/Time &amp; Space complexity - Big O(n^2).vcxproj" />
+</Solution>
