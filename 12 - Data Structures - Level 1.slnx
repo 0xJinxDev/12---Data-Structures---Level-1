@@ -3,8 +3,17 @@
     <Platform Name="x64" />
     <Platform Name="x86" />
   </Configurations>
-  <Project Path="Time &amp; Space complexity - Big O(1)/Time &amp; Space complexity - Big O(1).vcxproj" />
-  <Project Path="Time &amp; Space complexity - Big O(log n)/Time &amp; Space complexity - Big O(log n).vcxproj" />
-  <Project Path="Time &amp; Space complexity - Big O(n)/Time &amp; Space complexity - Big O(n).vcxproj" />
-  <Project Path="Time &amp; Space complexity - Big O(n^2)/Time &amp; Space complexity - Big O(n^2).vcxproj" />
+  <Project Path="Queue Data Structure - 01 STL Queue/Queue Data Structure - 01 STL Queue.vcxproj" Id="dbd15769-4054-439c-a383-10e05b9d21a6" />
+  <Project Path="Queue Data Structure - 02 Queue Swap/Queue Data Structure - 02 Queue Swap.vcxproj" Id="8916c459-cf21-4d41-8430-1edc4ff61f5a" />
+  <Project Path="Singly Linked List - 01 Implementation/Singly Linked List - 01 Implementation.vcxproj" Id="f6a9cd07-1524-44c4-83f1-17e8bb79f5db" />
+  <Project Path="Singly Linked List - 02 Insert at Beginning/Singly Linked List - 02 Insert at Beginning.vcxproj" Id="8062f691-41b9-4f2c-b018-5e0bfba7aab0" />
+  <Project Path="Singly Linked List - 03 Find/Singly Linked List - 03 Find.vcxproj" Id="dfa1a888-8129-4405-820d-cd44c550308e" />
+  <Project Path="Singly Linked List - 04 Insert After/Singly Linked List - 04 Insert After.vcxproj" Id="e360428b-9f3c-4927-9152-d0145eee93ed" />
+  <Project Path="Singly Linked List - 05 Insert at End/Singly Linked List - 05 Insert at End.vcxproj" Id="d9cf2b1b-3a31-4dc0-9f02-4b2884d88f2e" />
+  <Project Path="Stack Data Structure - 01 STL Stack/Stack Data Structure - 01 STL Stack.vcxproj" Id="a24a39fd-e671-400c-865a-22b14cabeab2" />
+  <Project Path="Stack Data Structure - 02 Stack Swap/Stack Data Structure - 02 Stack Swap.vcxproj" Id="fbac3edf-8aee-4125-8779-c13b50f7aaa7" />
+  <Project Path="Time &amp; Space complexity - Big O(1)/Time &amp; Space complexity - Big O(1).vcxproj" Id="aa81007d-257b-4ed4-b581-f3a2947c3ca1" />
+  <Project Path="Time &amp; Space complexity - Big O(log n)/Time &amp; Space complexity - Big O(log n).vcxproj" Id="dfbcf1f7-06bf-48e8-b911-a6d792a47caf" />
+  <Project Path="Time &amp; Space complexity - Big O(n)/Time &amp; Space complexity - Big O(n).vcxproj" Id="2be28cdd-9c4e-4d55-bc71-d4adbdc4cb7b" />
+  <Project Path="Time &amp; Space complexity - Big O(n^2)/Time &amp; Space complexity - Big O(n^2).vcxproj" Id="f00b3073-7831-45ab-bae0-70d967859a83" />
 </Solution>
