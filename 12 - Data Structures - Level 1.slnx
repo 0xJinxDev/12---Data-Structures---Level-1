@@ -11,6 +11,7 @@
   <Project Path="Doubly Linked List - 06 Delete Node/Doubly Linked List - 06 Delete Node.vcxproj" Id="5ba9d1ec-86fa-4b6a-984c-20996c956b7e" />
   <Project Path="Doubly Linked List - 07 Delete First Node/Doubly Linked List - 07 Delete First Node.vcxproj" Id="4f427ba2-4e16-4c65-9ec1-27ae3f3a83eb" />
   <Project Path="Doubly Linked List - 08 Delete Last Node/Doubly Linked List - 08 Delete Last Node.vcxproj" Id="ccd143c3-dedf-4e18-ad1b-3fa3bc0e832d" />
+  <Project Path="Map - 01 What is Map/Map - 01 What is Map.vcxproj" Id="7777f6f5-6739-4b45-9c2c-e76555c51c10" />
   <Project Path="Queue Data Structure - 01 STL Queue/Queue Data Structure - 01 STL Queue.vcxproj" Id="dbd15769-4054-439c-a383-10e05b9d21a6" />
   <Project Path="Queue Data Structure - 02 Queue Swap/Queue Data Structure - 02 Queue Swap.vcxproj" Id="8916c459-cf21-4d41-8430-1edc4ff61f5a" />
   <Project Path="Singly Linked List - 01 Implementation/Singly Linked List - 01 Implementation.vcxproj" Id="f6a9cd07-1524-44c4-83f1-17e8bb79f5db" />
@@ -27,4 +28,5 @@
   <Project Path="Time &amp; Space complexity - Big O(log n)/Time &amp; Space complexity - Big O(log n).vcxproj" Id="dfbcf1f7-06bf-48e8-b911-a6d792a47caf" />
   <Project Path="Time &amp; Space complexity - Big O(n)/Time &amp; Space complexity - Big O(n).vcxproj" Id="2be28cdd-9c4e-4d55-bc71-d4adbdc4cb7b" />
   <Project Path="Time &amp; Space complexity - Big O(n^2)/Time &amp; Space complexity - Big O(n^2).vcxproj" Id="f00b3073-7831-45ab-bae0-70d967859a83" />
+  <Project Path="Union - 01 What is Union/Union - 01 What is Union.vcxproj" Id="ff3e7038-b941-4ec1-adc5-09ab15aeb2b0" />
 </Solution>
